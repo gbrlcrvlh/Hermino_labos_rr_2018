@@ -42,5 +42,7 @@ com o hardware.
 
 a) Seleciona o processo com menor chance de ser executado pelo processador.
 
+![Prática 3.0](https://github.com/hermino/Hermino_labos_rr_2018/blob/master/Pr%C3%A1tica3.0.PNG)
+
 b) Quando entra em execução.
 
