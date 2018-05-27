@@ -1,0 +1,3 @@
+C:/Users/hermi/CLionProjects/AlgoritmoDoBanqueiro/cmake-build-debug/CMakeFiles/AlgoritmoDoBanqueiro.dir
+C:/Users/hermi/CLionProjects/AlgoritmoDoBanqueiro/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hermi/CLionProjects/AlgoritmoDoBanqueiro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
